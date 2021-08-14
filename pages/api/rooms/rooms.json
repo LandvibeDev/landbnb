@@ -1,0 +1,81 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "image": "https://a0.muscache.com/im/pictures/eef1ae79-b2bd-49aa-8c2f-778d96e150b9.jpg?im_w=720",
+      "title": "문을열고 들어오면 : 낭만실조자를 위한 집",
+      "star": 4,
+      "location": "Gwangan-dong, Suyeong-gu, 부산, 한국"
+    },
+    {
+      "id": 2,
+      "image": "https://a0.muscache.com/im/pictures/f7e19a44-5afe-4558-8b5d-2f8186723721.jpg?im_w=720",
+      "title": "96m2, 3BR, 2BA, Metro, WI-FI etc...",
+      "star": 2,
+      "location": "아테네, Attica, 그리스"
+    },
+    {
+      "id": 3,
+      "image": "https://a0.muscache.com/im/pictures/a6b2a577-b615-4c11-982b-2331d5a9f345.jpg?im_w=720",
+      "title": "신축2룸#속초해변3분#홈바#아기침대#루프탑바베큐#한달살기#Beach House",
+      "star": 3,
+      "location": "Joyang-dong, Sokcho-si, 강원도, 한국"
+    },
+    {
+      "id": 4,
+      "image": "https://a0.muscache.com/im/pictures/45fb7da3-08a1-45f2-9e21-eea91c630559.jpg?im_w=720",
+      "title": "신축2룸#속초해변3분#홈바#아기침대#루프탑바베큐#한달살기#Beach House",
+      "star": 1,
+      "location": "Yeongok-myeon, Gangneung-si, 강원도, 한국"
+    },
+    {
+      "id": 5,
+      "image": "https://a0.muscache.com/im/pictures/a6b2a577-b615-4c11-982b-2331d5a9f345.jpg?im_w=720",
+      "title": "신축2룸#속초해변3분#홈바#아기침대#루프탑바베큐#한달살기#Beach House",
+      "star": 2,
+      "location": "Joyang-dong, Sokcho-si, 강원도, 한국"
+    },
+    {
+      "id": 6,
+      "image": "https://a0.muscache.com/im/pictures/c895e918-df79-43ff-b6f3-2a4e89ec7946.jpg?im_w=720",
+      "title": "오직 당신만을 위한 루프탑[더니든 프라이빗 루프탑]",
+      "star": 5,
+      "location": "Cheongho-dong, Sokcho-si, 강원도, 한국"
+    },
+    {
+      "id": 6,
+      "image": "https://a0.muscache.com/im/pictures/812229da-230e-409d-bfde-365ecd45ba2e.jpg?im_w=720",
+      "title": "persona guest house",
+      "star": 5,
+      "location": "Hannam-dong, Yongsan-gu, 서울, 한국"
+    },
+    {
+      "id": 7,
+      "image": "https://a0.muscache.com/im/pictures/a3c8be8b-764f-4ce4-9c1d-3c5191f52323.jpg?im_w=720",
+      "title": "춘천 유유자적 삼동_yuyujajeok, 편히쉬어가는곳",
+      "star": 3,
+      "location": "Seo-myeon, Chuncheon-si, 강원도, 한국"
+    },
+    {
+      "id": 8,
+      "image": "https://a0.muscache.com/im/pictures/2f6ccfaa-b050-4a7f-875d-bc1c47d28967.jpg?im_w=720",
+      "title": "편안하고 안락한 서교동, 마포구 숙소",
+      "star": 2,
+      "location": "Seogyo-dong, Mapo-gu, 서울, 한국"
+    },
+    {
+      "id": 9,
+      "image": "https://a0.muscache.com/im/pictures/e70219e6-fa23-487f-b349-4d38f4d9c441.jpg?im_w=720",
+      "title": "KYOTO STANDARD 교토스탠다드 (시몬스 침대사용) 인스타그램 @playburger",
+      "star": 2,
+      "location": "Doryong-dong, Yuseong-gu, 대전(Daejeon), 한국"
+    },
+    {
+      "id": 10,
+      "image": "https://a0.muscache.com/im/pictures/miso/Hosting-48706514/original/c68d6217-ffbc-4089-a633-b10352b92028.jpeg?im_w=720",
+      "title": "한가",
+      "star": 1,
+      "location": "Seosin-dong, Wansan-gu, Jeonju-si, 전라북도, 한국"
+    }
+  ]
+}
